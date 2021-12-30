@@ -1043,5 +1043,3 @@ function LibraryV2:SetToggleKey(Key)
       self.ToggleKey = Key
     end)
 end
-
-return LibraryV2
